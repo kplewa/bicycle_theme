@@ -1,0 +1,513 @@
+
+.container-fluid
+{
+    padding: 0;
+}
+.row
+{
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+html
+{
+     width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.background-logo
+{
+    margin: 0;
+    padding: 0;
+    height: 800px;
+    background-image: url(../img/bicyclelogo.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navbar
+{
+   height: 120px;
+    background-color: transparent;
+    border: none;
+}
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+  
+}
+.navbar-nav > li{
+  padding-left:30px;
+  padding-right:30px;
+    padding-top: 30px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    
+}
+/*------------new generation-------------------*/
+.newgeneration-container
+{
+    height: 469px;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+}
+.newgeneration-text
+{
+    margin-top: 170px;
+}
+.newgeneration-title
+{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    padding-top: 173px;
+    margin: 0;
+    padding: 0;
+}
+.newgeneration-paragraph
+{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    
+}
+/*----------vintage oliva*/
+.vintageoliva-left
+{
+    height: 600px;
+    background-image: url(../img/bike1-left.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+.vintageoliva-title
+{
+    font-size: 18px;
+    font-family: 'Lato'; 
+    color: #353738;
+    font-weight: 700;
+    
+}
+.oliviatext-right
+{
+    height: 444px;
+}
+.oliva-text
+{
+    width: 85%;
+    height: 250px;
+    margin: 0 auto;
+    
+    margin-top: 130px;
+    
+    
+}
+.vintageoliva-paragraph
+{
+    font-size: 16px;
+    font-family: 'Lato';
+    font-weight: 400;
+    color: #848789;
+    text-align: left;
+    line-height: 30px;
+    word-spacing: 8px;
+   
+}
+.vintageoliva-right
+{
+    height: 600px;
+    padding: 0;
+    
+    background-color: #ffffff;
+    
+}
+
+.vintageimg-right
+{
+    height: 200px;
+    background-image: url(../img/bike1-right.png);
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+
+/*-------la boriosa------------*/
+
+.laboriosa
+{
+ height: 600px;
+    padding: 0;
+    margin: 0;
+    background-color: #ffffff;
+}
+.text-laboriosa
+{
+    width: 85%;
+    height: 250px;
+    margin: 0 auto;
+    
+    margin-top: 130px;
+}
+.laboriosa-title
+{
+    
+    font-size: 18px;
+    font-family: 'Lato'; 
+    color: #353738;
+    font-weight: 700;
+    
+}
+.laboriosa-paragraph
+{
+     font-size: 16px;
+    font-family: 'Lato';
+    font-weight: 400;
+    color: #848789;
+    text-align: left;
+    line-height: 30px;
+    word-spacing: 8px;
+    
+}
+.container-laboriosa
+{
+    height: 600px;
+    padding: 0;
+    margin: 0;
+    background-color: #ffffff;
+}
+.imgleft-laboriosa
+{
+    height: 200px;
+    background-image: url(../img/bike2-left.png);
+    background-repeat: no-repeat;
+    background-size: ;
+}
+.imgright-laboriosa
+{
+    height: 600px;
+   
+    background-image: url(../img/bike2-right.png);
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+/*-------retro-bike------------*/
+.retrobike-text
+{
+    width: 85%;
+    height: 250px;
+    margin: 0 auto;
+    
+    margin-top: 130px;
+}
+.retro-title
+{
+    
+    font-size: 18px;
+    font-family: 'Lato'; 
+    color: #353738;
+    font-weight: 700;
+    
+}
+.retro-paragraph
+{
+     font-size: 16px;
+    font-family: 'Lato';
+    font-weight: 400;
+    color: #848789;
+    text-align: left;
+    line-height: 30px;
+    word-spacing: 8px;
+    
+}
+
+
+
+
+.retro-bike
+{
+    height: 600px;
+    margin: 0;
+    padding: 0;
+}
+.retrobike-left
+{
+    height: 600px;
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/bike3-left.png);
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+.retrobike-logo
+{
+    position: relative;
+    height: 70px;
+    width: 220px;
+    background-image: url(../img/retrobike-logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    margin-left: 100px;
+    margin-top: 260px;
+}
+.retrobike-center
+{
+    height: 600px;
+    margin: 0;
+    padding: 0;
+}
+.retroimg-center
+{
+    height: 199px;
+    background-image: url(../img/bike3-middle.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.retrobike-right
+{
+    height: 600px;
+   
+    background-image: url(../img/bike3-right.png);
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+/*-------------------slider*/
+.slider
+{
+    height: 469px;
+    background-color: #f7f7f7;
+}
+/*-------------obrazki*/
+.pictures
+{
+    height: 534px;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+}
+.picture-left
+{
+    height: 534px;
+    margin: 0;
+    padding: 0;
+}
+.picture-topleft
+{
+    height: 267px;
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/bike4-topleft.png);
+     
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0;
+    padding: 0;
+}
+.picture-topright
+{
+     height: 267px;
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/bike4-topright.png);
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+.picture-bottom
+{
+    height: 267px;
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/bike4-bottom.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0;
+    padding: 0;
+}
+.picture-centerleft
+{
+     height: 534px;
+      margin: 0;
+    padding: 0;
+    background-image: url(../img/bike5-left.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.picture-centerright
+{    
+    
+    height: 534px;
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/vbike5-right.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.picture-right
+{
+    height: 267px;
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/bike6-top.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.pictureright-logo
+{
+    position: relative;
+    height: 80px;
+    width: 117px;
+    background-image: url(../img/logopicture.png);
+    background-repeat: no-repeat;
+    margin-top: 110px;
+    margin-left: 170px;
+    
+}
+.picture-right2
+{
+    height: 267px;
+      margin: 0;
+    padding: 0;
+    background-image: url(../img/bike6-bottom.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*---------discover the shop------*/
+.discover
+{
+    height: 200px;
+    margin: 0;
+    padding: 0;
+    background-color: #282f35;
+}
+.buttons
+{
+    margin-top: 70px;
+}
+.button
+{
+    background-color: transparent;
+    border: solid 2px;
+    border-color: #94979a;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 55px;
+    padding-right: 55px;
+    color: #94979a;
+    font-family: 'Lato' sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    
+}
+/*FORM----------------------------------*/
+
+
+.form-stay
+{
+    height: 469px;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+.logo
+{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    padding: 0;
+    background-image: url(../img/logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    margin-top: 100px;
+}
+.text-form
+{
+    font-family: 'Lato' ;
+    font-style: italic;
+    color: #949799;
+    font-size: 24px;
+    padding-top: 35px;
+}
+.form-center
+{
+    margin: 0 auto;
+    width:100%;
+    background-color: transparent;
+    margin-top: 40px;
+       
+}
+.form
+{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+input[type="email"]
+{
+    width: 430px;
+    height: 70px;
+    font-family: 'Lato' ;
+    font-style: italic;
+    color: #c8c8c8;
+    font-size: 20px;
+    padding-left: 10px;
+    border: solid 2px;
+    margin-left: 20px;
+}
+button[type="submit"]
+{
+    border-radius: 0px;
+    height: 70px;
+    width: 125px;
+    margin-bottom: 8px;
+    border: none;
+    margin-left: 10px;
+    background-color: #64c29e;
+    color: #ffffff;
+    font-family: 'Lato';
+    font-weight: lighter;
+    font-size: 24px;
+}
+button:visited
+{
+    outline: none;
+}
